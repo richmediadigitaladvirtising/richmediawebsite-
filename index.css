@@ -1,0 +1,324 @@
+.header{
+    height: 70px;
+    width: 100%;
+    border: 2px solid grey;
+    background-color:grey;
+}
+.logo img{
+
+    margin-left: 130px;
+    margin-top: -10px;
+  
+
+    
+  
+
+}
+.nav ul{
+     width: 600px;
+     display: flex;
+     justify-content:space-around;
+     margin-left: 500px;
+     list-style: none;
+     margin-top: -90px;
+
+}
+.nav a{
+    text-decoration: none;
+}
+.nav li a {
+    color: coral;
+}
+.nav li:hover{
+    /* background-color: aquamarine; */
+    border-bottom: 5px solid blue;
+}
+
+.btn{
+    
+ float: right;
+ margin-top: -60px;
+ margin-right: 120px;
+ font-size: 20px;
+height: 40px;
+width: 150px;
+border: 2px solid aqua;
+border-radius: 10px;
+background-color:aqua;
+}
+.btn a{
+    text-decoration: none;
+}
+.box{
+    height: 600px;
+    width: 100%;
+    border: 2px solid;
+    background-image: url('https://media.istockphoto.com/id/1280385432/photo/abstract-background.jpg?s=1024x1024&w=is&k=20&c=l1X0-Kes3rfxeP1Znfiwd-ExezypWynV5j2lG8Wm-tU=');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.Heading{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+#head{
+    color:rgba(191, 227, 11, 0.91);
+} 
+#head1{
+    
+    color: bisque;
+}
+
+.btn1{
+    height: 40px;
+    width: 120px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color: darkorange;
+    margin-left: 550px;
+    margin-top: 50px;
+    
+    
+}
+.btn1:hover{
+    cursor: pointer;
+    height: 41px;
+}
+
+.btn2{
+    height: 40px;
+    width: 120px;
+    border: 2px solid;
+    border-radius: 5px;
+    background-color:cornflowerblue;
+    margin-left: 40px;
+}
+.btn2:hover{
+    cursor: pointer;
+    height: 41px;
+}
+#session1{
+    height: 550px;
+    width: 100%;
+    border: 2px solid ;
+    background-color: aquamarine;
+
+}
+
+.head3{
+    margin-left: 700px;
+    color: rgb(139, 13, 228);
+    border-bottom: 5px solid orange;
+    width: 100px;
+
+}
+#session2{
+    height: 500px;
+    width: 100%;
+    border: 2px solid;
+    background-color: blueviolet;
+
+}
+.head4{
+    margin-left: 700px;
+    color: chocolate;
+    border-bottom: 5px solid gold;
+    width: 130px;
+}
+#session3{
+    height: 500px;
+    width: 100%;
+    border: 2px solid;
+    background-image: url('https://img.freepik.com/free-vector/black-background-with-red-glowing-low-poly-mesh_1017-20215.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head5{
+    margin-left: 700px;
+    border-bottom: 5px solid red;
+    width: 150px;
+   
+    color: gold;
+}
+#session4{
+    height: 300px;
+    width: 100%;
+    border: 2px solid;
+    background-color: cadetblue;
+}
+.head6{
+    margin-left: 700px;
+    border-bottom: 5px solid greenyellow;
+    width: 150px;
+    color:darkorange;
+}
+#session5{
+    height: 600px;
+    width: 100%;
+    border: 2px solid;
+    background-color: dimgray;
+
+}
+.container{
+    height: 500px;
+    width:700px ;
+    border: 2px solid white;
+    background-color: beige;
+    box-shadow: 10px white;
+    margin: auto;
+    margin-top: 60px;
+    margin-left: 350px;
+  
+}
+.name{
+    position: absolute;
+    left: 500px;
+    top: 2640px;
+    color: blueviolet;
+    font-size: 25px;
+    
+}
+.input{
+    position: absolute;
+    left:600px ;
+    top: 2640px;
+    width: 270px;
+    height: 23px;
+    border-radius: 3px;
+
+}
+.lable1{
+    position: absolute;
+    left: 445px;
+    top: 2700px;
+    color: blueviolet;
+    font-size: 25px;
+    
+  
+}
+.input1{
+    position: absolute;
+    left:602px ;
+    top: 2700px;
+    width: 270px;
+    height: 23px;
+    border-radius: 3px;
+
+}
+.lable2{
+    position: absolute;
+    left: 500px;
+    top: 2760px;
+    color: blueviolet;
+    font-size: 25px;
+}
+.input2{
+    position: absolute;
+    left:602px ;
+    top: 2760px;
+    width: 270px;
+    height: 23px;
+    border-radius: 3px;
+}
+
+.lable3{
+    position: absolute;
+    left: 400px;
+    top: 2830px;
+    color: blueviolet;
+    font-size: 25px;
+   
+}
+.input3{
+    position: absolute;
+    left:602px ;
+    top: 2830px;
+    width: 270px;
+    height: 23px;
+    border-radius: 3px;
+}
+.lable4{
+    position: absolute;
+    left: 444px;
+    top: 2900px;
+    color: blueviolet;
+    font-size: 25px;
+}
+.input4{
+    position: absolute;
+    left: 602px;
+    top: 2900px;
+    width: 270px;
+    height: 23px;
+    border-radius: 3px;
+}
+.lable5{
+    position: absolute;
+    left: 505px;
+    top: 2960px;
+    color: blueviolet;
+    font-size: 25px
+}
+.input5{
+    position: absolute;
+    left:602px ;
+    top: 2960px;
+    width: 275px;
+    height: 50px;
+    border-radius: 3px;
+
+}
+.button{
+    height: 35px;
+    width: 150px;
+    border: 2px solid  cornflowerblue ;
+    background-color: cornflowerblue;
+    border-radius: 4px;
+    position: absolute;
+    top: 3045px;
+    left: 650px;
+    color:orange;
+    font-size: 20px;
+}
+.button:hover{
+    cursor: pointer;
+    width: 155px;
+ 
+}
+
+.main ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 500px;
+    margin-right: 100px;
+    margin-top: 340px;
+
+
+}
+.main a{
+    text-decoration: none;
+}
+.logo-slider{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.logo-slider img{
+    animation: slideshow 2s ease-in-out infinite;
+}
+@keyframes slideshow {
+	0% {
+		transform: translateX(0%);
+	}
+
+    100% {
+		transform: translateX(-160%);
+	}
+   
+  
+  
+}
